@@ -1,4 +1,4 @@
-termnotify - notifications daemon to pipe things out to a terminal
+termnotify - notifications daemon
 
 Tells dbus to send it notifications, currently prints them to terminal
 
